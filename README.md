@@ -45,4 +45,5 @@ Password: Nh@rmblack2
 
 The user can file their information after program completion.
 
+Side note: When accessing the application, one can download the banking package (the zip file) or download the .Java files directly. I included the .java files in this upload to make it easier to see my code.
 
