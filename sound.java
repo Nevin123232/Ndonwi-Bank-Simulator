@@ -38,7 +38,7 @@ public class sound {
 	public sound(String filename) {
 		
 		
-		//makes a cound object
+		//makes a sound object
 		this.filename = filename;
 		this.music = new File(filename);
 		this.play = true;
